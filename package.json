@@ -1,0 +1,17 @@
+{
+  "name": "ml-project-checklist",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjosund/ml-project-checklist.git"
+  },
+  "author": "Lars Lowe Sjösund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjosund/ml-project-checklist/issues"
+  },
+  "homepage": "https://github.com/sjosund/ml-project-checklist#readme",
+  "dependencies": {
+    "md-to-pdf": "^3.1.1"
+  }
+}
