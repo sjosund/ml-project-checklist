@@ -6,7 +6,7 @@
     "url": "git+https://github.com/sjosund/ml-project-checklist.git"
   },
   "author": "Lars Lowe Sjösund",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sjosund/ml-project-checklist/issues"
   },
