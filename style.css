@@ -1,0 +1,16 @@
+body {
+    font: "Times New Roman"
+}
+
+ol,ul {
+    list-style: none;
+}
+
+li {
+    margin: 0 0 7px -35px;
+    max-width: 500px;
+}
+
+h2, h3 {
+    margin: 10px 0 0 0;
+}
