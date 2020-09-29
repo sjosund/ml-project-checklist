@@ -31,31 +31,15 @@ The items on this checklist come from various sources, such as <a href="https://
 - [ ] We understand how to split the data into train/val/test to avoid data leakage
 - [ ] If we need to collect data, we know how difficult and costly it will be to collect and annotate
 - [ ] We have a plan for how to store and version our data, dataset splits, models, and change in annotations
-- [ ] We get a reasonable <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf">“ML Test Score”</a>, table 1
 
 ## Modelling
 - [ ] We have one or several well thought out baselines in place. These are not good enough, so there’s an actual need to use ML
 - [ ] There’s a metrics webpage where we can compare runs and the url is ___________________
 - [ ] We can (approximately) reproduce a model if needed
-- [ ] We get a reasonable <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf">“ML Test Score”</a>, table 2
 
 ## Deployment
-- [ ] We have CI in place
 - [ ] We have tests for the full training pipeline
 - [ ] We have validation tests
-- [ ] We have functionality tests
-- [ ] We have unit tests
-- [ ] We have CD in place
-- [ ] We have CT in place
-- [ ] Blue/green deployment in place
-- [ ] We can deploy a model in shadow mode
-- [ ] Monitoring in place for memory consumption
-- [ ] Monitoring in place for CPU consumption
-- [ ] Monitoring in place for latency
-- [ ] Monitoring in place for downtime
-- [ ] Monitoring in place for requests per second
 - [ ] Monitoring in place for prediction confidence over time
 - [ ] We have a way of detecting if a model will fail on a given datapoint, and a corresponding fallback
-- [ ] We get a reasonable <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf">“ML Test Score”</a>, table 3-4
 
-</div>
