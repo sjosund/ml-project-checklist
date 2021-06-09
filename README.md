@@ -58,4 +58,3 @@ The items on this checklist come from various sources, such as <a href="https://
 - [ ] We have a way of detecting if a model will fail on a given datapoint, and a corresponding fallback
 - [ ] We get a reasonable <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf">“ML Test Score”</a>, table 3-4
 
-</div>
