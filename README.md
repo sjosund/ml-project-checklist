@@ -4,7 +4,7 @@ The items on this checklist come from various sources, such as <a href="https://
 ## Before modelling
 ### Project
 - [ ] The project has a clear, codified business goal/metric
-- [ ] There is a person who is ultimately responsible for the success/failure of the project
+- [ ] There is a team who is ultimately responsible for the success/failure of the project
 - [ ] We have a plan for how to reach a first deployed end product as fast as possible
 - [ ] We have decided on how and when to keep the team in sync (daily/weekly standups, retrospectives, planning meetings, etc)
 - [ ] We have assessed how the product will impact stakeholders (e.g. people, society, world)
