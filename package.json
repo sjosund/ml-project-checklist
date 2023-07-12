@@ -12,6 +12,6 @@
   },
   "homepage": "https://github.com/sjosund/ml-project-checklist#readme",
   "dependencies": {
-    "md-to-pdf": "^5.0.0"
+    "md-to-pdf": "^5.2.4"
   }
 }
